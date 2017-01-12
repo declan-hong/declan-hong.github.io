@@ -22,37 +22,25 @@
       },
       {
         "network": "linkedin",
-        "username": "declanite@yahoo.com",
+        "username": "declanhong",
         "url": "http://www.linkedin.com/in/declanhong"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
-    ]
-  },
   
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineer",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cyber security",
       "keywords": [
       ]
     }
@@ -62,12 +50,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -76,9 +62,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
@@ -86,11 +70,15 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "studyType": "B.A.",
+      "startDate": "2016-01-10",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.70",
       "courses": [
+        "ICS111 Intro to programming",
+        "ICS211 Data structure",
+        "ICS311 Algorithm analysis",
+        "ICS314 Software engineer"
       ]
     }
   ],
