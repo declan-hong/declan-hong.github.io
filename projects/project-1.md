@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cover.JPG
 title: Micromouse
-permalink: projects/Bashantex
+permalink: projects/micromouse
 date: 2015
 labels:
   - HTML
