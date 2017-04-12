@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cover.JPG
+image: images/thumb.JPG
 title: Bshantex
 permalink: projects/micromouse
 date: 2015
